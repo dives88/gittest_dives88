@@ -1,1 +1,2 @@
 this is my other file
+it *might be* my favorite
